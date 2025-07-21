@@ -1,5 +1,6 @@
 # medium
-## pt-br / en-us / la
+## All languagues supports for tags i18n
+### pt-br / en-us / la / es-es / fr-fr / de-de / it-it / ja / zh-cn / ru / ar / hi / ko / nl-nl / sv-se / pl-pl / tr-tr / he / th / vi
 - pt-br: Discussões da comunidade AlertWave para esta organização (Portuguese, Brazil)
 - en-us: AlertWave Community Discussions for this Organization (English, United States)
 - la: Disputationes Communitatis AlertWave pro hac Ordinatio (Latin)
