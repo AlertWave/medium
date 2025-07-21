@@ -1,5 +1,22 @@
 # medium
 ## pt-br / en-us / la
-- Discussões da comunidade AlertWave para esta organização
-- AlertWave Community Discussions for this Organization
-- Disputationes Communitatis AlertWave pro hac Ordinatio
+- pt-br: Discussões da comunidade AlertWave para esta organização (Portuguese, Brazil)
+- en-us: AlertWave Community Discussions for this Organization (English, United States)
+- la: Disputationes Communitatis AlertWave pro hac Ordinatio (Latin)
+- es-es: Discusiones de la comunidad AlertWave para esta organización (Spanish, Spain)
+- fr-fr: Discussions de la communauté AlertWave pour cette organisation (French, France)
+- de-de: Diskussionen der AlertWave-Community für diese Organisation (German, Germany)
+- it-it: Discussioni della comunità AlertWave per questa organizzazione (Italian, Italy)
+- ja: AlertWaveコミュニティのこの組織のための議論 (Japanese)
+- zh-cn: AlertWave社区为该组织的讨论 (Chinese, Simplified)
+- ru: Обсуждения сообщества AlertWave для этой организации (Russian)
+- ar: مناقشات مجتمع AlertWave لهذه المنظمة (Arabic)
+- hi: इस संगठन के लिए AlertWave समुदाय चर्चाएँ (Hindi)
+- ko: 이 조직을 위한 AlertWave 커뮤니티 토론 (Korean)
+- nl-nl: Discussies van de AlertWave-gemeenschap voor deze organisatie (Dutch, Netherlands)
+- sv-se: AlertWave-gemenskapsdiskussioner för denna organisation (Swedish, Sweden)
+- pl-pl: Dyskusje społeczności AlertWave dla tej organizacji (Polish, Poland)
+- tr-tr: Bu organizasyon için AlertWave topluluk tartışmaları (Turkish, Turkey)
+- he: דיונים בקהילת AlertWave עבור ארגון זה (Hebrew)
+- th: การสนทนาของชุมชน AlertWave สำหรับองค์กรนี้ (Thai)
+- vi: Thảo luận cộng đồng AlertWave cho tổ chức này (Vietnamese)
